@@ -6,8 +6,12 @@
     "start": "node app"
   },
   "dependencies": {
+    "bootstrap-stylus": "^0.2.1",
     "express": "3.0.6",
     "jade": "*",
     "stylus": "*"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
   }
 }
